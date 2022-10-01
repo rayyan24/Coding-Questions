@@ -1,6 +1,5 @@
 1 Two Sum
 11 Container With Most Water
-111
 118 Pascals Triangle
 12 Integer to Roman
 120 Triangle
@@ -109,3 +108,9 @@
 977 Square of a Sorted Array
 977 Squares of Sorted Array
 989 Add to Array-Form of Integer
+94 Binary Tree Inorder Traversal
+1721 Swapping Nodes in a Linked List
+387 First Unique Character in a String
+25 Reverse Nodes in k-Group
+91 Decode Ways
+
